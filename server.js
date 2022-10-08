@@ -66,3 +66,5 @@ app.listen(process.env.PORT, () => {
 
 
 // setting this up for a clone
+
+// I think by putting in the new repo a readme and a gitignore I set myself up to have gunk in my repo. but I really like the name, so I am a little stuck on what to do about it , I want to see how this cloning work before I put the rm branch in one so I'm going to do this next.
